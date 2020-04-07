@@ -21,6 +21,10 @@ export default class Main extends Component {
 
     if(repositories){
       this.setState({ repositories: JSON.parse(repositories) });
+    }else {
+      this.setState({
+        repositories: [{ name: 'twbs/bootstrap' }],
+      });
     }
   }
 
