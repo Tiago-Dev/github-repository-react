@@ -4,6 +4,8 @@
 
 ### [Live Demo](https://5ee823ca2a1bf49dfe2eb2b2--priceless-booth-709baf.netlify.app/)
 
+![Screenshot 1](screenshot-readme.png)
+
 ## Installation
 
 Use the package manager yarn to install.
