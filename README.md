@@ -2,7 +2,7 @@
 
 :octocat: Add a Github repository and get yours details and issues.
 
-### [Live Demo](https://5ee81e5f8fc8d38e25e29471--priceless-booth-709baf.netlify.app/)
+### [Live Demo](https://5ee823ca2a1bf49dfe2eb2b2--priceless-booth-709baf.netlify.app/)
 
 ## Installation
 
